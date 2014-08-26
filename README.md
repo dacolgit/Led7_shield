@@ -16,7 +16,7 @@
 Repository Contents
 ------------------
 
-* **/Led7_Shiled** - Example VS project
+* **/Led7_Shield** - Example VS project
 
 License Information
 -------------------
